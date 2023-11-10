@@ -1,5 +1,5 @@
 {
-    "name": "michsindelar/phprsmq",
+    "name": "nikitopush/phprsmq",
     "description": "PHP implementation of the Redis Simple Message Queue.",
     "license": "MIT",
     "scripts": {
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0"
+        "php": ">=8.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.5"
